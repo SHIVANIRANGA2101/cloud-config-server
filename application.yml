@@ -24,3 +24,5 @@ microservice:
     endpoints:
       endpoint:
         uri: "http://discount-service/api/coupon/"
+
+
